@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: c5c96e05f67864db88be8a4460a1a18d
+timeCreated: 1455391695
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EHS01_BackDoor
+    100004: EHS01_BackWall
+    100006: EHS01_BackWindows
+    100008: EHS01_DoorFront
+    100010: EHS01_LighterWalls
+    100012: EHS01_Main
+    100014: EHS01_RoofTar
+    100016: EHS01_RooTiles
+    100018: EHS01_WallBase
+    100020: EHS01_WhiteTrim
+    100022: EHS01_Windows
+    400000: //RootNode
+    400002: EHS01_BackDoor
+    400004: EHS01_BackWall
+    400006: EHS01_BackWindows
+    400008: EHS01_DoorFront
+    400010: EHS01_LighterWalls
+    400012: EHS01_Main
+    400014: EHS01_RoofTar
+    400016: EHS01_RooTiles
+    400018: EHS01_WallBase
+    400020: EHS01_WhiteTrim
+    400022: EHS01_Windows
+    2300000: EHS01_BackDoor
+    2300002: EHS01_BackWall
+    2300004: EHS01_BackWindows
+    2300006: EHS01_DoorFront
+    2300008: EHS01_LighterWalls
+    2300010: EHS01_Main
+    2300012: EHS01_RoofTar
+    2300014: EHS01_RooTiles
+    2300016: EHS01_WallBase
+    2300018: EHS01_WhiteTrim
+    2300020: EHS01_Windows
+    3300000: EHS01_BackDoor
+    3300002: EHS01_BackWall
+    3300004: EHS01_BackWindows
+    3300006: EHS01_DoorFront
+    3300008: EHS01_LighterWalls
+    3300010: EHS01_Main
+    3300012: EHS01_RoofTar
+    3300014: EHS01_RooTiles
+    3300016: EHS01_WallBase
+    3300018: EHS01_WhiteTrim
+    3300020: EHS01_Windows
+    4300000: EHS01_BackDoor
+    4300002: EHS01_BackWall
+    4300004: EHS01_BackWindows
+    4300006: EHS01_DoorFront
+    4300008: EHS01_LighterWalls
+    4300010: EHS01_Main
+    4300012: EHS01_RoofTar
+    4300014: EHS01_RooTiles
+    4300016: EHS01_WallBase
+    4300018: EHS01_WhiteTrim
+    4300020: EHS01_Windows
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: dc4df50314f7d4c298cd751fb9b39e89
+timeCreated: 1455560882
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BOARD
+    100002: BOARDS
+    100004: CEILING_FLOOR
+    100006: CHICK
+    100008: CHIMNEY
+    100010: CORNICE
+    100012: CORNICE_BACK
+    100014: DOOR
+    100016: DOOR_2
+    100018: DOOR_BACK_WOOD
+    100020: GLAS_DOOR
+    100022: //RootNode
+    100024: ROOF
+    100026: STAIRS
+    100028: STAIRS_2
+    100030: TYMPANON
+    100032: WALL
+    100034: WALL_BOSSE
+    100036: WALL_FRAME
+    100038: WALL_FRAME_2
+    100040: WALL_INSIDE
+    100042: WALL_outside
+    100044: WINDOW_FRAME
+    100046: WINDOW_GLAS
+    100048: WINDOWS_BACK_FRAME
+    100050: WINDOWS_BACK_GLAS
+    100052: WINDOWS_BOARD
+    400000: BOARD
+    400002: BOARDS
+    400004: CEILING_FLOOR
+    400006: CHICK
+    400008: CHIMNEY
+    400010: CORNICE
+    400012: CORNICE_BACK
+    400014: DOOR
+    400016: DOOR_2
+    400018: DOOR_BACK_WOOD
+    400020: GLAS_DOOR
+    400022: //RootNode
+    400024: ROOF
+    400026: STAIRS
+    400028: STAIRS_2
+    400030: TYMPANON
+    400032: WALL
+    400034: WALL_BOSSE
+    400036: WALL_FRAME
+    400038: WALL_FRAME_2
+    400040: WALL_INSIDE
+    400042: WALL_outside
+    400044: WINDOW_FRAME
+    400046: WINDOW_GLAS
+    400048: WINDOWS_BACK_FRAME
+    400050: WINDOWS_BACK_GLAS
+    400052: WINDOWS_BOARD
+    2300000: BOARD
+    2300002: BOARDS
+    2300004: CEILING_FLOOR
+    2300006: CHICK
+    2300008: CHIMNEY
+    2300010: CORNICE
+    2300012: CORNICE_BACK
+    2300014: DOOR
+    2300016: DOOR_2
+    2300018: DOOR_BACK_WOOD
+    2300020: GLAS_DOOR
+    2300022: ROOF
+    2300024: STAIRS
+    2300026: STAIRS_2
+    2300028: TYMPANON
+    2300030: WALL
+    2300032: WALL_BOSSE
+    2300034: WALL_FRAME
+    2300036: WALL_FRAME_2
+    2300038: WALL_INSIDE
+    2300040: WALL_outside
+    2300042: WINDOW_FRAME
+    2300044: WINDOW_GLAS
+    2300046: WINDOWS_BACK_FRAME
+    2300048: WINDOWS_BACK_GLAS
+    2300050: WINDOWS_BOARD
+    3300000: BOARD
+    3300002: BOARDS
+    3300004: CEILING_FLOOR
+    3300006: CHICK
+    3300008: CHIMNEY
+    3300010: CORNICE
+    3300012: CORNICE_BACK
+    3300014: DOOR
+    3300016: DOOR_2
+    3300018: DOOR_BACK_WOOD
+    3300020: GLAS_DOOR
+    3300022: ROOF
+    3300024: STAIRS
+    3300026: STAIRS_2
+    3300028: TYMPANON
+    3300030: WALL
+    3300032: WALL_BOSSE
+    3300034: WALL_FRAME
+    3300036: WALL_FRAME_2
+    3300038: WALL_INSIDE
+    3300040: WALL_outside
+    3300042: WINDOW_FRAME
+    3300044: WINDOW_GLAS
+    3300046: WINDOWS_BACK_FRAME
+    3300048: WINDOWS_BACK_GLAS
+    3300050: WINDOWS_BOARD
+    4300000: BOARD
+    4300002: BOARDS
+    4300004: CEILING_FLOOR
+    4300006: CHICK
+    4300008: CHIMNEY
+    4300010: CORNICE
+    4300012: CORNICE_BACK
+    4300014: DOOR
+    4300016: DOOR_2
+    4300018: DOOR_BACK_WOOD
+    4300020: GLAS_DOOR
+    4300022: ROOF
+    4300024: STAIRS
+    4300026: STAIRS_2
+    4300028: TYMPANON
+    4300030: WALL
+    4300032: WALL_BOSSE
+    4300034: WALL_FRAME
+    4300036: WALL_FRAME_2
+    4300038: WALL_INSIDE
+    4300040: WALL_outside
+    4300042: WINDOW_FRAME
+    4300044: WINDOW_GLAS
+    4300046: WINDOWS_BACK_FRAME
+    4300048: WINDOWS_BACK_GLAS
+    4300050: WINDOWS_BOARD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: d5768fa9a6486493da4ce2c0e7178b1e
+timeCreated: 1455833186
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 214398b3f624ea8dfa48b257aeee2be8
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.2986616, y: 1.8943229, z: 0.9748595}
+      lookAt: {x: 1.477047, y: 1.6479287, z: 1.0806246}
+      up: {x: 0.65809804, y: 0.64394104, z: 0.39018825}
+      fov: 35.26158
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3D_Man_Seated
+    100002: //RootNode
+    100004: Engine
+    100006: Engine Cover
+    100008: Group 101
+    100010: Group 103
+    100012: Group 105
+    100014: Group 109
+    100016: Group 11
+    100018: Group 111
+    100020: Group 113
+    100022: Group 116
+    100024: Group 120
+    100026: Group 122
+    100028: Group 124
+    100030: Group 126
+    100032: Group 13
+    100034: Group 15
+    100036: Group 17
+    100038: Group 19
+    100040: Group 2
+    100042: Group 21
+    100044: Group 23
+    100046: Group 27
+    100048: Group 3
+    100050: Group 31
+    100052: Group 34
+    100054: Group 36
+    100056: Group 38
+    100058: Group 4
+    100060: Group 40
+    100062: Group 42
+    100064: Group 46
+    100066: Group 48
+    100068: Group 5
+    100070: Group 50
+    100072: Group 52
+    100074: Group 54
+    100076: Group 56
+    100078: Group 58
+    100080: Group 60
+    100082: Group 62
+    100084: Group 64
+    100086: Group 66
+    100088: Group 68
+    100090: Group 7
+    100092: Group 70
+    100094: Group 73
+    100096: Group 75
+    100098: Group 77
+    100100: Group 79
+    100102: Group 81
+    100104: Group 85
+    100106: Group 87
+    100108: Group 89
+    100110: Group 9
+    100112: Group 91
+    100114: Group 93
+    100116: Group 97
+    100118: Group 99
+    100120: Image 1
+    100122: Left Wng
+    100124: Left Wng 1
+    100126: Mediana
+    100128: Mediana#1
+    100130: Propeller
+    100132: Weel
+    100134: Weel 1
+    400000: 3D_Man_Seated
+    400002: //RootNode
+    400004: Engine
+    400006: Engine Cover
+    400008: Group 101
+    400010: Group 103
+    400012: Group 105
+    400014: Group 109
+    400016: Group 11
+    400018: Group 111
+    400020: Group 113
+    400022: Group 116
+    400024: Group 120
+    400026: Group 122
+    400028: Group 124
+    400030: Group 126
+    400032: Group 13
+    400034: Group 15
+    400036: Group 17
+    400038: Group 19
+    400040: Group 2
+    400042: Group 21
+    400044: Group 23
+    400046: Group 27
+    400048: Group 3
+    400050: Group 31
+    400052: Group 34
+    400054: Group 36
+    400056: Group 38
+    400058: Group 4
+    400060: Group 40
+    400062: Group 42
+    400064: Group 46
+    400066: Group 48
+    400068: Group 5
+    400070: Group 50
+    400072: Group 52
+    400074: Group 54
+    400076: Group 56
+    400078: Group 58
+    400080: Group 60
+    400082: Group 62
+    400084: Group 64
+    400086: Group 66
+    400088: Group 68
+    400090: Group 7
+    400092: Group 70
+    400094: Group 73
+    400096: Group 75
+    400098: Group 77
+    400100: Group 79
+    400102: Group 81
+    400104: Group 85
+    400106: Group 87
+    400108: Group 89
+    400110: Group 9
+    400112: Group 91
+    400114: Group 93
+    400116: Group 97
+    400118: Group 99
+    400120: Image 1
+    400122: Left Wng
+    400124: Left Wng 1
+    400126: Mediana
+    400128: Mediana#1
+    400130: Propeller
+    400132: Weel
+    400134: Weel 1
+    2300000: 3D_Man_Seated
+    2300002: Engine
+    2300004: Group 101
+    2300006: Group 103
+    2300008: Group 105
+    2300010: Group 109
+    2300012: Group 11
+    2300014: Group 111
+    2300016: Group 116
+    2300018: Group 120
+    2300020: Group 122
+    2300022: Group 124
+    2300024: Group 126
+    2300026: Group 13
+    2300028: Group 15
+    2300030: Group 17
+    2300032: Group 19
+    2300034: Group 21
+    2300036: Group 23
+    2300038: Group 27
+    2300040: Group 31
+    2300042: Group 34
+    2300044: Group 36
+    2300046: Group 38
+    2300048: Group 40
+    2300050: Group 42
+    2300052: Group 46
+    2300054: Group 48
+    2300056: Group 5
+    2300058: Group 50
+    2300060: Group 52
+    2300062: Group 54
+    2300064: Group 56
+    2300066: Group 58
+    2300068: Group 60
+    2300070: Group 62
+    2300072: Group 64
+    2300074: Group 66
+    2300076: Group 68
+    2300078: Group 7
+    2300080: Group 70
+    2300082: Group 73
+    2300084: Group 75
+    2300086: Group 77
+    2300088: Group 79
+    2300090: Group 81
+    2300092: Group 85
+    2300094: Group 87
+    2300096: Group 89
+    2300098: Group 9
+    2300100: Group 91
+    2300102: Group 93
+    2300104: Group 97
+    2300106: Group 99
+    2300108: Image 1
+    2300110: Left Wng
+    2300112: Left Wng 1
+    2300114: Mediana
+    2300116: Mediana#1
+    2300118: Weel
+    2300120: Weel 1
+    3300000: 3D_Man_Seated
+    3300002: Engine
+    3300004: Group 101
+    3300006: Group 103
+    3300008: Group 105
+    3300010: Group 109
+    3300012: Group 11
+    3300014: Group 111
+    3300016: Group 116
+    3300018: Group 120
+    3300020: Group 122
+    3300022: Group 124
+    3300024: Group 126
+    3300026: Group 13
+    3300028: Group 15
+    3300030: Group 17
+    3300032: Group 19
+    3300034: Group 21
+    3300036: Group 23
+    3300038: Group 27
+    3300040: Group 31
+    3300042: Group 34
+    3300044: Group 36
+    3300046: Group 38
+    3300048: Group 40
+    3300050: Group 42
+    3300052: Group 46
+    3300054: Group 48
+    3300056: Group 5
+    3300058: Group 50
+    3300060: Group 52
+    3300062: Group 54
+    3300064: Group 56
+    3300066: Group 58
+    3300068: Group 60
+    3300070: Group 62
+    3300072: Group 64
+    3300074: Group 66
+    3300076: Group 68
+    3300078: Group 7
+    3300080: Group 70
+    3300082: Group 73
+    3300084: Group 75
+    3300086: Group 77
+    3300088: Group 79
+    3300090: Group 81
+    3300092: Group 85
+    3300094: Group 87
+    3300096: Group 89
+    3300098: Group 9
+    3300100: Group 91
+    3300102: Group 93
+    3300104: Group 97
+    3300106: Group 99
+    3300108: Image 1
+    3300110: Left Wng
+    3300112: Left Wng 1
+    3300114: Mediana
+    3300116: Mediana#1
+    3300118: Weel
+    3300120: Weel 1
+    4300000: Mesh BF+109E
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+    4300006: Mesh Group 9
+    4300008: Mesh Group 11
+    4300010: Mesh Group 13
+    4300012: Mesh Group 15
+    4300014: Mesh Group 17
+    4300016: Mesh Group 19
+    4300018: Mesh Group 21
+    4300020: Mesh Group 23
+    4300022: Mesh Mediana#1
+    4300024: Mesh Group 27
+    4300026: Mesh Mediana
+    4300028: Mesh Group 34
+    4300030: Mesh Group 36
+    4300032: Mesh Group 38
+    4300034: Mesh Group 40
+    4300036: Mesh Engine
+    4300038: Mesh Group 46
+    4300040: Mesh Group 64
+    4300042: Mesh Group 66
+    4300044: Mesh Group 70
+    4300046: Mesh Group 73
+    4300048: Mesh Group 75
+    4300050: Mesh Group 77
+    4300052: Mesh Group 79
+    4300054: Mesh Group 81
+    4300056: Mesh Left Wng
+    4300058: Mesh Group 85
+    4300060: Mesh Group 87
+    4300062: Mesh Group 89
+    4300064: Mesh Group 91
+    4300066: Mesh Group 93
+    4300068: Mesh 3D_Man_Seated
+    4300070: Mesh Group 109
+    4300072: Mesh Weel
+    4300074: Mesh Group 116
+    4300076: Mesh Group 122
+    4300078: Mesh Group 124
+    4300080: Mesh Group 126
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

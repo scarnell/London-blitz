@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: c80266d3e7631406691d198f443a1f00
+timeCreated: 1455996395
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 8cbb3d6bcbca67909e086de718c77274
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.121220455, y: -0.05209213, z: 0.13890783}
+      lookAt: {x: -1.7203978, y: 1.0645477, z: -2.0635753}
+      up: {x: 0.23252235, y: 0.93198824, z: 0.27808508}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 14.258993, y: 8.584491, z: -13.181566}
+        lookAt: {x: 1.7429824, y: 2.1247783, z: 6.913271}
+        up: {x: -0.13917013, y: 0.96473074, z: 0.2234419}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Home
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bf109G6
+    100002: Cylinder01
+    100004: Form01
+    100006: Form55_01
+    100008: //RootNode
+    100010: NoName_03
+    100012: NoName_04
+    100014: NoName_05
+    100016: NoName_06
+    100018: NoName_07
+    100020: NoName_110
+    100022: NoName_111
+    100024: NoName_112
+    100026: NoName_1_0
+    100028: NoName_1_1
+    100030: NoName_1_2
+    100032: NoName_1_3
+    100034: NoName_1_4
+    100036: NoName_1_5
+    100038: NoName_1_6
+    100040: NoName_1_7
+    100042: NoName_1_8
+    100044: NoName_1_9
+    100046: NoName_2_0
+    100048: NoName_3_0
+    100050: NoName_3_1
+    100052: NoName_3_2
+    100054: NoName_3_3
+    100056: NoName_3_4
+    100058: NoName_410
+    100060: NoName_4_0
+    100062: NoName_4_1
+    100064: NoName_4_2
+    100066: NoName_4_3
+    100068: NoName_4_4
+    100070: NoName_4_5
+    100072: NoName_4_6
+    100074: NoName_4_7
+    100076: NoName_4_8
+    100078: NoName_4_9
+    100080: NoName_5_0
+    400000: Bf109G6
+    400002: Cylinder01
+    400004: Form01
+    400006: Form55_01
+    400008: //RootNode
+    400010: NoName_03
+    400012: NoName_04
+    400014: NoName_05
+    400016: NoName_06
+    400018: NoName_07
+    400020: NoName_110
+    400022: NoName_111
+    400024: NoName_112
+    400026: NoName_1_0
+    400028: NoName_1_1
+    400030: NoName_1_2
+    400032: NoName_1_3
+    400034: NoName_1_4
+    400036: NoName_1_5
+    400038: NoName_1_6
+    400040: NoName_1_7
+    400042: NoName_1_8
+    400044: NoName_1_9
+    400046: NoName_2_0
+    400048: NoName_3_0
+    400050: NoName_3_1
+    400052: NoName_3_2
+    400054: NoName_3_3
+    400056: NoName_3_4
+    400058: NoName_410
+    400060: NoName_4_0
+    400062: NoName_4_1
+    400064: NoName_4_2
+    400066: NoName_4_3
+    400068: NoName_4_4
+    400070: NoName_4_5
+    400072: NoName_4_6
+    400074: NoName_4_7
+    400076: NoName_4_8
+    400078: NoName_4_9
+    400080: NoName_5_0
+    2300000: Cylinder01
+    2300002: Form01
+    2300004: Form55_01
+    2300006: NoName_03
+    2300008: NoName_04
+    2300010: NoName_05
+    2300012: NoName_06
+    2300014: NoName_07
+    2300016: NoName_110
+    2300018: NoName_111
+    2300020: NoName_112
+    2300022: NoName_1_0
+    2300024: NoName_1_1
+    2300026: NoName_1_2
+    2300028: NoName_1_3
+    2300030: NoName_1_4
+    2300032: NoName_1_5
+    2300034: NoName_1_6
+    2300036: NoName_1_7
+    2300038: NoName_1_8
+    2300040: NoName_1_9
+    2300042: NoName_2_0
+    2300044: NoName_3_0
+    2300046: NoName_3_1
+    2300048: NoName_3_2
+    2300050: NoName_3_3
+    2300052: NoName_3_4
+    2300054: NoName_410
+    2300056: NoName_4_0
+    2300058: NoName_4_1
+    2300060: NoName_4_2
+    2300062: NoName_4_3
+    2300064: NoName_4_4
+    2300066: NoName_4_5
+    2300068: NoName_4_6
+    2300070: NoName_4_7
+    2300072: NoName_4_8
+    2300074: NoName_4_9
+    2300076: NoName_5_0
+    3300000: Cylinder01
+    3300002: Form01
+    3300004: Form55_01
+    3300006: NoName_03
+    3300008: NoName_04
+    3300010: NoName_05
+    3300012: NoName_06
+    3300014: NoName_07
+    3300016: NoName_110
+    3300018: NoName_111
+    3300020: NoName_112
+    3300022: NoName_1_0
+    3300024: NoName_1_1
+    3300026: NoName_1_2
+    3300028: NoName_1_3
+    3300030: NoName_1_4
+    3300032: NoName_1_5
+    3300034: NoName_1_6
+    3300036: NoName_1_7
+    3300038: NoName_1_8
+    3300040: NoName_1_9
+    3300042: NoName_2_0
+    3300044: NoName_3_0
+    3300046: NoName_3_1
+    3300048: NoName_3_2
+    3300050: NoName_3_3
+    3300052: NoName_3_4
+    3300054: NoName_410
+    3300056: NoName_4_0
+    3300058: NoName_4_1
+    3300060: NoName_4_2
+    3300062: NoName_4_3
+    3300064: NoName_4_4
+    3300066: NoName_4_5
+    3300068: NoName_4_6
+    3300070: NoName_4_7
+    3300072: NoName_4_8
+    3300074: NoName_4_9
+    3300076: NoName_5_0
+    4300000: Mesh Cylinder01
+    4300002: Mesh NoName_03
+    4300004: Mesh NoName_3_0
+    4300006: Mesh NoName_04
+    4300008: Mesh NoName_5_0
+    4300010: Mesh NoName_05
+    4300012: Mesh NoName_4_0
+    4300014: Mesh NoName_4_1
+    4300016: Mesh NoName_4_2
+    4300018: Mesh NoName_4_3
+    4300020: Mesh NoName_4_4
+    4300022: Mesh NoName_4_5
+    4300024: Mesh NoName_4_6
+    4300026: Mesh NoName_4_7
+    4300028: Mesh NoName_4_8
+    4300030: Mesh NoName_4_9
+    4300032: Mesh NoName_410
+    4300034: Mesh NoName_3_1
+    4300036: Mesh NoName_3_2
+    4300038: Mesh NoName_06
+    4300040: Mesh NoName_2_0
+    4300042: Mesh NoName_07
+    4300044: Mesh NoName_1_0
+    4300046: Mesh NoName_1_1
+    4300048: Mesh NoName_1_2
+    4300050: Mesh NoName_1_3
+    4300052: Mesh NoName_1_4
+    4300054: Mesh NoName_1_5
+    4300056: Mesh NoName_1_6
+    4300058: Mesh NoName_1_7
+    4300060: Mesh NoName_1_8
+    4300062: Mesh NoName_1_9
+    4300064: Mesh NoName_110
+    4300066: Mesh NoName_111
+    4300068: Mesh NoName_112
+    4300070: Mesh NoName_3_3
+    4300072: Mesh NoName_3_4
+    4300074: Mesh Form01
+    4300076: Mesh Form55_01
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

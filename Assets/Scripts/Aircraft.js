@@ -6,6 +6,7 @@ var group4 : Transform;
 var spawnPos : Vector3;
 var bar : Vector3;
 
+
 function Awake() {
 spawnPos = transform.position;
 }
@@ -16,20 +17,33 @@ bar = transform.position;
   if(Vector3.Distance (bar, spawnPos) >=20 && Vector3.Distance (bar, spawnPos) <40){
         group1.parent = null;
         group1.GetComponent.<Rigidbody>().isKinematic = false;
-        group1.GetComponent.<Rigidbody>().velocity = GetComponent.<Rigidbody>().velocity;}
+        group1.GetComponent.<Rigidbody>().velocity = GetComponent.<Rigidbody>().velocity;
+        var audio: AudioSource = group1.GetComponent.<AudioSource>();
+		audio.Play();}
 if(Vector3.Distance (bar, spawnPos) >=40 && Vector3.Distance (bar, spawnPos) <60)
         {group2.parent = null;
         group2.GetComponent.<Rigidbody>().isKinematic = false;
-        group2.GetComponent.<Rigidbody>().velocity = GetComponent.<Rigidbody>().velocity;}
+        group2.GetComponent.<Rigidbody>().velocity = GetComponent.<Rigidbody>().velocity;
+        var audio1: AudioSource = group2.GetComponent.<AudioSource>();
+		audio1.Play();}
 if(Vector3.Distance (bar, spawnPos) >= 60 && Vector3.Distance (bar, spawnPos) <80)
         {group3.parent = null;
         group3.GetComponent.<Rigidbody>().isKinematic = false;
-        group3.GetComponent.<Rigidbody>().velocity = GetComponent.<Rigidbody>().velocity;}
+        group3.GetComponent.<Rigidbody>().velocity = GetComponent.<Rigidbody>().velocity;
+        var audio2: AudioSource = group3.GetComponent.<AudioSource>();
+		audio2.Play();}
 if(Vector3.Distance (bar, spawnPos) >= 80 && Vector3.Distance (bar, spawnPos) <100)
         {group4.parent = null;
         group4.GetComponent.<Rigidbody>().isKinematic = false;
-        group4.GetComponent.<Rigidbody>().velocity = GetComponent.<Rigidbody>().velocity;}
-    
+        group4.GetComponent.<Rigidbody>().velocity = GetComponent.<Rigidbody>().velocity;
+        var audio3: AudioSource = group4.GetComponent.<AudioSource>();
+		audio3.Play();}
+    if(Vector3.Distance (bar, spawnPos) >= 600 && Vector3.Distance (bar, spawnPos) <620)
+    {
+    Destroy(GameObject.Find("Group1"));
+    Destroy(GameObject.Find("Group2"));
+    Destroy(GameObject.Find("Group3"));
+    Destroy(GameObject.Find("Group4"));}
 }
 
 function FixedUpdate () {

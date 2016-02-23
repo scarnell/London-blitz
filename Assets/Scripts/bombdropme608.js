@@ -7,8 +7,13 @@ var group5 : Transform;
 var group6 : Transform;
 var group7 : Transform;
 var group8 : Transform;
+var player : GameObject;
+var player1 : GameObject;
+var player2 : GameObject;
+var player3 : GameObject;
 var spawnPos : Vector3;
 var bar : Vector3;
+
 
 function Awake() {
 spawnPos = transform.position;
@@ -83,9 +88,15 @@ if(Vector3.Distance (bar, spawnPos) >= 90 && Vector3.Distance (bar, spawnPos) <1
     Destroy(GameObject.Find("Group10"));
     Destroy(GameObject.Find("Group11"));
    	Destroy(GameObject.Find("Group12"));}
+
+if(Vector3.Distance (bar, spawnPos) >= 1000 && Vector3.Distance (bar, spawnPos) <1020)
+{
+player.GetComponent.<AudioSource>().mute=true;
+player1.GetComponent.<AudioSource>().mute=true;
+player2.GetComponent.<AudioSource>().mute=true;
+player3.GetComponent.<AudioSource>().mute=true;
 }
-
-
+}
 
 function FixedUpdate () {
     GetComponent.<Rigidbody>().AddForce(Vector3.forward);

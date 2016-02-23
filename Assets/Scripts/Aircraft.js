@@ -5,6 +5,11 @@ var group3 : Transform;
 var group4 : Transform;
 var spawnPos : Vector3;
 var bar : Vector3;
+var player : GameObject;
+var player1 : GameObject;
+var player2 : GameObject;
+var player3 : GameObject;
+
 
 
 function Awake() {
@@ -19,7 +24,8 @@ bar = transform.position;
         group1.GetComponent.<Rigidbody>().isKinematic = false;
         group1.GetComponent.<Rigidbody>().velocity = GetComponent.<Rigidbody>().velocity;
         var audio: AudioSource = group1.GetComponent.<AudioSource>();
-		audio.Play();}
+		audio.Play();
+		}
 if(Vector3.Distance (bar, spawnPos) >=40 && Vector3.Distance (bar, spawnPos) <60)
         {group2.parent = null;
         group2.GetComponent.<Rigidbody>().isKinematic = false;
@@ -38,12 +44,19 @@ if(Vector3.Distance (bar, spawnPos) >= 80 && Vector3.Distance (bar, spawnPos) <1
         group4.GetComponent.<Rigidbody>().velocity = GetComponent.<Rigidbody>().velocity;
         var audio3: AudioSource = group4.GetComponent.<AudioSource>();
 		audio3.Play();}
-    if(Vector3.Distance (bar, spawnPos) >= 600 && Vector3.Distance (bar, spawnPos) <620)
+    if(Vector3.Distance (bar, spawnPos) >= 750 && Vector3.Distance (bar, spawnPos) <770)
     {
     Destroy(GameObject.Find("Group1"));
     Destroy(GameObject.Find("Group2"));
     Destroy(GameObject.Find("Group3"));
     Destroy(GameObject.Find("Group4"));}
+    if(Vector3.Distance (bar, spawnPos) >= 1000 && Vector3.Distance (bar, spawnPos) <1020)
+{
+player.GetComponent.<AudioSource>().mute=true;
+player1.GetComponent.<AudioSource>().mute=true;
+player2.GetComponent.<AudioSource>().mute=true;
+player3.GetComponent.<AudioSource>().mute=true;
+}
 }
 
 function FixedUpdate () {

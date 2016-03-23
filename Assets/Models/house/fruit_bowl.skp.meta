@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 5b6f5324110cf40469e6ac877b6b5a99
+timeCreated: 1455993446
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f00000060000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 823806883cbdf39d7f9f4315c9c09d10
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.3855332, y: 0.63593763, z: -0.40753132}
+      lookAt: {x: -6.8432436, y: -17.652372, z: 14.271138}
+      up: {x: -0.32925752, y: 0.66676956, z: 0.66858643}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Apple
+    100002: Apple 1
+    100004: Apple 2
+    100006: Apple 3
+    100008: Apple 4
+    100010: Apple 5
+    100012: Apple 6
+    100014: Apple 7
+    100016: Apple 8
+    100018: Apple 9
+    100020: apple half
+    100022: apple half 1
+    100024: apple half 10
+    100026: apple half 11
+    100028: apple half 12
+    100030: apple half 13
+    100032: apple half 14
+    100034: apple half 15
+    100036: apple half 16
+    100038: apple half 17
+    100040: apple half 18
+    100042: apple half 19
+    100044: apple half 2
+    100046: apple half 3
+    100048: apple half 4
+    100050: apple half 5
+    100052: apple half 6
+    100054: apple half 7
+    100056: apple half 8
+    100058: apple half 9
+    100060: //RootNode
+    100062: Group 1
+    100064: leaf
+    100066: leaf 1
+    100068: leaf 2
+    100070: leaf 3
+    100072: leaf 4
+    100074: leaf 5
+    100076: leaf 6
+    100078: leaf 7
+    100080: leaf 8
+    100082: leaf 9
+    100084: SimpleSphere02
+    100086: SimpleSphere02 1
+    100088: SimpleSphere02 2
+    100090: SimpleSphere02 3
+    100092: SimpleSphere02 4
+    100094: SimpleSphere02 5
+    100096: SimpleSphere02 6
+    100098: SimpleSphere02 7
+    100100: SimpleSphere02 8
+    100102: SimpleSphere02 9
+    100104: ske8
+    100106: ske8 1
+    400000: Apple
+    400002: Apple 1
+    400004: Apple 2
+    400006: Apple 3
+    400008: Apple 4
+    400010: Apple 5
+    400012: Apple 6
+    400014: Apple 7
+    400016: Apple 8
+    400018: Apple 9
+    400020: apple half
+    400022: apple half 1
+    400024: apple half 10
+    400026: apple half 11
+    400028: apple half 12
+    400030: apple half 13
+    400032: apple half 14
+    400034: apple half 15
+    400036: apple half 16
+    400038: apple half 17
+    400040: apple half 18
+    400042: apple half 19
+    400044: apple half 2
+    400046: apple half 3
+    400048: apple half 4
+    400050: apple half 5
+    400052: apple half 6
+    400054: apple half 7
+    400056: apple half 8
+    400058: apple half 9
+    400060: //RootNode
+    400062: Group 1
+    400064: leaf
+    400066: leaf 1
+    400068: leaf 2
+    400070: leaf 3
+    400072: leaf 4
+    400074: leaf 5
+    400076: leaf 6
+    400078: leaf 7
+    400080: leaf 8
+    400082: leaf 9
+    400084: SimpleSphere02
+    400086: SimpleSphere02 1
+    400088: SimpleSphere02 2
+    400090: SimpleSphere02 3
+    400092: SimpleSphere02 4
+    400094: SimpleSphere02 5
+    400096: SimpleSphere02 6
+    400098: SimpleSphere02 7
+    400100: SimpleSphere02 8
+    400102: SimpleSphere02 9
+    400104: ske8
+    400106: ske8 1
+    2300000: apple half
+    2300002: apple half 1
+    2300004: apple half 10
+    2300006: apple half 11
+    2300008: apple half 12
+    2300010: apple half 13
+    2300012: apple half 14
+    2300014: apple half 15
+    2300016: apple half 16
+    2300018: apple half 17
+    2300020: apple half 18
+    2300022: apple half 19
+    2300024: apple half 2
+    2300026: apple half 3
+    2300028: apple half 4
+    2300030: apple half 5
+    2300032: apple half 6
+    2300034: apple half 7
+    2300036: apple half 8
+    2300038: apple half 9
+    2300040: Group 1
+    2300042: leaf
+    2300044: leaf 1
+    2300046: leaf 2
+    2300048: leaf 3
+    2300050: leaf 4
+    2300052: leaf 5
+    2300054: leaf 6
+    2300056: leaf 7
+    2300058: leaf 8
+    2300060: leaf 9
+    2300062: SimpleSphere02
+    2300064: SimpleSphere02 1
+    2300066: SimpleSphere02 2
+    2300068: SimpleSphere02 3
+    2300070: SimpleSphere02 4
+    2300072: SimpleSphere02 5
+    2300074: SimpleSphere02 6
+    2300076: SimpleSphere02 7
+    2300078: SimpleSphere02 8
+    2300080: SimpleSphere02 9
+    2300082: ske8
+    2300084: ske8 1
+    3300000: apple half
+    3300002: apple half 1
+    3300004: apple half 10
+    3300006: apple half 11
+    3300008: apple half 12
+    3300010: apple half 13
+    3300012: apple half 14
+    3300014: apple half 15
+    3300016: apple half 16
+    3300018: apple half 17
+    3300020: apple half 18
+    3300022: apple half 19
+    3300024: apple half 2
+    3300026: apple half 3
+    3300028: apple half 4
+    3300030: apple half 5
+    3300032: apple half 6
+    3300034: apple half 7
+    3300036: apple half 8
+    3300038: apple half 9
+    3300040: Group 1
+    3300042: leaf
+    3300044: leaf 1
+    3300046: leaf 2
+    3300048: leaf 3
+    3300050: leaf 4
+    3300052: leaf 5
+    3300054: leaf 6
+    3300056: leaf 7
+    3300058: leaf 8
+    3300060: leaf 9
+    3300062: SimpleSphere02
+    3300064: SimpleSphere02 1
+    3300066: SimpleSphere02 2
+    3300068: SimpleSphere02 3
+    3300070: SimpleSphere02 4
+    3300072: SimpleSphere02 5
+    3300074: SimpleSphere02 6
+    3300076: SimpleSphere02 7
+    3300078: SimpleSphere02 8
+    3300080: SimpleSphere02 9
+    3300082: ske8
+    3300084: ske8 1
+    4300000: Mesh Group 1
+    4300002: Mesh ske8
+    4300004: Mesh leaf
+    4300006: Mesh apple half
+    4300008: Mesh SimpleSphere02
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 4f2546b93485b420ea288ca63ed66c06
+timeCreated: 1455993668
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b7fc690f8eb35f1a007a4eb4884a4682
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.34854394, y: 0.3879886, z: 0.22511731}
+      lookAt: {x: -0.112048976, y: 0.15949433, z: 0.0740713}
+      up: {x: 0.53214055, y: 0.7754447, z: -0.3398707}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Basket - Dish
+    100002: Fruit - Banana
+    100004: Fruit - Banana 1
+    100006: Fruit - Green Apple
+    100008: Fruit - Orange
+    100010: Fruit - Orange 1
+    100012: Fruit - Red Apple
+    100014: Fruit - Red Apple 1
+    100016: //RootNode
+    400000: Basket - Dish
+    400002: Fruit - Banana
+    400004: Fruit - Banana 1
+    400006: Fruit - Green Apple
+    400008: Fruit - Orange
+    400010: Fruit - Orange 1
+    400012: Fruit - Red Apple
+    400014: Fruit - Red Apple 1
+    400016: //RootNode
+    2300000: Basket - Dish
+    2300002: Fruit - Banana
+    2300004: Fruit - Banana 1
+    2300006: Fruit - Green Apple
+    2300008: Fruit - Orange
+    2300010: Fruit - Orange 1
+    2300012: Fruit - Red Apple
+    2300014: Fruit - Red Apple 1
+    3300000: Basket - Dish
+    3300002: Fruit - Banana
+    3300004: Fruit - Banana 1
+    3300006: Fruit - Green Apple
+    3300008: Fruit - Orange
+    3300010: Fruit - Orange 1
+    3300012: Fruit - Red Apple
+    3300014: Fruit - Red Apple 1
+    4300000: Mesh Basket - Dish
+    4300002: Mesh Fruit - Red Apple
+    4300004: Mesh Fruit - Green Apple
+    4300006: Mesh Fruit - Orange
+    4300008: Mesh Fruit - Banana
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 3836c64f0d725426e99feff1aa5c4dc9
+timeCreated: 1455991750
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000
+  assetHash:
+    serializedVersion: 2
+    Hash: fb459728c215740a8fde69774f394edd
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.0194291, y: 0.67378116, z: -0.67904246}
+      lookAt: {x: 0.4538145, y: 0.261496, z: 0.37508786}
+      up: {x: -0.15405433, y: 0.9454287, z: 0.28710952}
+      fov: 42.124744
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 12.180498, y: 15.580154, z: -10.504777}
+        lookAt: {x: 5.8420877, y: -0.1914974, z: 1.894507}
+        up: {x: -0.34120262, y: 0.66186935, z: 0.66746515}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: detail
+    100004: detail 1
+    100006: detail 10
+    100008: detail 100
+    100010: detail 101
+    100012: detail 102
+    100014: detail 103
+    100016: detail 104
+    100018: detail 105
+    100020: detail 106
+    100022: detail 107
+    100024: detail 108
+    100026: detail 109
+    100028: detail 11
+    100030: detail 110
+    100032: detail 111
+    100034: detail 112
+    100036: detail 113
+    100038: detail 114
+    100040: detail 115
+    100042: detail 116
+    100044: detail 117
+    100046: detail 118
+    100048: detail 119
+    100050: detail 12
+    100052: detail 120
+    100054: detail 121
+    100056: detail 122
+    100058: detail 123
+    100060: detail 124
+    100062: detail 125
+    100064: detail 126
+    100066: detail 127
+    100068: detail 128
+    100070: detail 129
+    100072: detail 13
+    100074: detail 130
+    100076: detail 131
+    100078: detail 132
+    100080: detail 133
+    100082: detail 134
+    100084: detail 135
+    100086: detail 136
+    100088: detail 137
+    100090: detail 138
+    100092: detail 139
+    100094: detail 14
+    100096: detail 15
+    100098: detail 16
+    100100: detail 17
+    100102: detail 18
+    100104: detail 19
+    100106: detail 2
+    100108: detail 20
+    100110: detail 21
+    100112: detail 22
+    100114: detail 23
+    100116: detail 24
+    100118: detail 25
+    100120: detail 26
+    100122: detail 27
+    100124: detail 28
+    100126: detail 29
+    100128: detail 3
+    100130: detail 30
+    100132: detail 31
+    100134: detail 32
+    100136: detail 33
+    100138: detail 34
+    100140: detail 35
+    100142: detail 36
+    100144: detail 37
+    100146: detail 38
+    100148: detail 39
+    100150: detail 4
+    100152: detail 40
+    100154: detail 41
+    100156: detail 42
+    100158: detail 43
+    100160: detail 44
+    100162: detail 45
+    100164: detail 46
+    100166: detail 47
+    100168: detail 48
+    100170: detail 49
+    100172: detail 5
+    100174: detail 50
+    100176: detail 51
+    100178: detail 52
+    100180: detail 53
+    100182: detail 54
+    100184: detail 55
+    100186: detail 56
+    100188: detail 57
+    100190: detail 58
+    100192: detail 59
+    100194: detail 6
+    100196: detail 60
+    100198: detail 61
+    100200: detail 62
+    100202: detail 63
+    100204: detail 64
+    100206: detail 65
+    100208: detail 66
+    100210: detail 67
+    100212: detail 68
+    100214: detail 69
+    100216: detail 7
+    100218: detail 70
+    100220: detail 71
+    100222: detail 72
+    100224: detail 73
+    100226: detail 74
+    100228: detail 75
+    100230: detail 76
+    100232: detail 77
+    100234: detail 78
+    100236: detail 79
+    100238: detail 8
+    100240: detail 80
+    100242: detail 81
+    100244: detail 82
+    100246: detail 83
+    100248: detail 84
+    100250: detail 85
+    100252: detail 86
+    100254: detail 87
+    100256: detail 88
+    100258: detail 89
+    100260: detail 9
+    100262: detail 90
+    100264: detail 91
+    100266: detail 92
+    100268: detail 93
+    100270: detail 94
+    100272: detail 95
+    100274: detail 96
+    100276: detail 97
+    100278: detail 98
+    100280: detail 99
+    100282: Group 3
+    100284: Group 4
+    100286: Group 54
+    100288: Group 55
+    100290: Group#1
+    100292: knob
+    100294: knob 1
+    100296: knob 2
+    100298: line
+    100300: line 1
+    100302: line 10
+    100304: line 11
+    100306: line 12
+    100308: line 13
+    100310: line 14
+    100312: line 15
+    100314: line 16
+    100316: line 17
+    100318: line 18
+    100320: line 19
+    100322: line 2
+    100324: line 20
+    100326: line 21
+    100328: line 22
+    100330: line 23
+    100332: line 24
+    100334: line 25
+    100336: line 26
+    100338: line 27
+    100340: line 28
+    100342: line 29
+    100344: line 3
+    100346: line 30
+    100348: line 31
+    100350: line 32
+    100352: line 33
+    100354: line 34
+    100356: line 35
+    100358: line 36
+    100360: line 37
+    100362: line 38
+    100364: line 39
+    100366: line 4
+    100368: line 5
+    100370: line 6
+    100372: line 7
+    100374: line 8
+    100376: line 9
+    100378: opening-1
+    100380: opening-1 1
+    100382: opening_2
+    100384: opening_2 1
+    100386: radio half
+    100388: radio half 1
+    400000: //RootNode
+    400002: detail
+    400004: detail 1
+    400006: detail 10
+    400008: detail 100
+    400010: detail 101
+    400012: detail 102
+    400014: detail 103
+    400016: detail 104
+    400018: detail 105
+    400020: detail 106
+    400022: detail 107
+    400024: detail 108
+    400026: detail 109
+    400028: detail 11
+    400030: detail 110
+    400032: detail 111
+    400034: detail 112
+    400036: detail 113
+    400038: detail 114
+    400040: detail 115
+    400042: detail 116
+    400044: detail 117
+    400046: detail 118
+    400048: detail 119
+    400050: detail 12
+    400052: detail 120
+    400054: detail 121
+    400056: detail 122
+    400058: detail 123
+    400060: detail 124
+    400062: detail 125
+    400064: detail 126
+    400066: detail 127
+    400068: detail 128
+    400070: detail 129
+    400072: detail 13
+    400074: detail 130
+    400076: detail 131
+    400078: detail 132
+    400080: detail 133
+    400082: detail 134
+    400084: detail 135
+    400086: detail 136
+    400088: detail 137
+    400090: detail 138
+    400092: detail 139
+    400094: detail 14
+    400096: detail 15
+    400098: detail 16
+    400100: detail 17
+    400102: detail 18
+    400104: detail 19
+    400106: detail 2
+    400108: detail 20
+    400110: detail 21
+    400112: detail 22
+    400114: detail 23
+    400116: detail 24
+    400118: detail 25
+    400120: detail 26
+    400122: detail 27
+    400124: detail 28
+    400126: detail 29
+    400128: detail 3
+    400130: detail 30
+    400132: detail 31
+    400134: detail 32
+    400136: detail 33
+    400138: detail 34
+    400140: detail 35
+    400142: detail 36
+    400144: detail 37
+    400146: detail 38
+    400148: detail 39
+    400150: detail 4
+    400152: detail 40
+    400154: detail 41
+    400156: detail 42
+    400158: detail 43
+    400160: detail 44
+    400162: detail 45
+    400164: detail 46
+    400166: detail 47
+    400168: detail 48
+    400170: detail 49
+    400172: detail 5
+    400174: detail 50
+    400176: detail 51
+    400178: detail 52
+    400180: detail 53
+    400182: detail 54
+    400184: detail 55
+    400186: detail 56
+    400188: detail 57
+    400190: detail 58
+    400192: detail 59
+    400194: detail 6
+    400196: detail 60
+    400198: detail 61
+    400200: detail 62
+    400202: detail 63
+    400204: detail 64
+    400206: detail 65
+    400208: detail 66
+    400210: detail 67
+    400212: detail 68
+    400214: detail 69
+    400216: detail 7
+    400218: detail 70
+    400220: detail 71
+    400222: detail 72
+    400224: detail 73
+    400226: detail 74
+    400228: detail 75
+    400230: detail 76
+    400232: detail 77
+    400234: detail 78
+    400236: detail 79
+    400238: detail 8
+    400240: detail 80
+    400242: detail 81
+    400244: detail 82
+    400246: detail 83
+    400248: detail 84
+    400250: detail 85
+    400252: detail 86
+    400254: detail 87
+    400256: detail 88
+    400258: detail 89
+    400260: detail 9
+    400262: detail 90
+    400264: detail 91
+    400266: detail 92
+    400268: detail 93
+    400270: detail 94
+    400272: detail 95
+    400274: detail 96
+    400276: detail 97
+    400278: detail 98
+    400280: detail 99
+    400282: Group 3
+    400284: Group 4
+    400286: Group 54
+    400288: Group 55
+    400290: Group#1
+    400292: knob
+    400294: knob 1
+    400296: knob 2
+    400298: line
+    400300: line 1
+    400302: line 10
+    400304: line 11
+    400306: line 12
+    400308: line 13
+    400310: line 14
+    400312: line 15
+    400314: line 16
+    400316: line 17
+    400318: line 18
+    400320: line 19
+    400322: line 2
+    400324: line 20
+    400326: line 21
+    400328: line 22
+    400330: line 23
+    400332: line 24
+    400334: line 25
+    400336: line 26
+    400338: line 27
+    400340: line 28
+    400342: line 29
+    400344: line 3
+    400346: line 30
+    400348: line 31
+    400350: line 32
+    400352: line 33
+    400354: line 34
+    400356: line 35
+    400358: line 36
+    400360: line 37
+    400362: line 38
+    400364: line 39
+    400366: line 4
+    400368: line 5
+    400370: line 6
+    400372: line 7
+    400374: line 8
+    400376: line 9
+    400378: opening-1
+    400380: opening-1 1
+    400382: opening_2
+    400384: opening_2 1
+    400386: radio half
+    400388: radio half 1
+    2300000: detail
+    2300002: detail 1
+    2300004: detail 10
+    2300006: detail 100
+    2300008: detail 101
+    2300010: detail 102
+    2300012: detail 103
+    2300014: detail 104
+    2300016: detail 105
+    2300018: detail 106
+    2300020: detail 107
+    2300022: detail 108
+    2300024: detail 109
+    2300026: detail 11
+    2300028: detail 110
+    2300030: detail 111
+    2300032: detail 112
+    2300034: detail 113
+    2300036: detail 114
+    2300038: detail 115
+    2300040: detail 116
+    2300042: detail 117
+    2300044: detail 118
+    2300046: detail 119
+    2300048: detail 12
+    2300050: detail 120
+    2300052: detail 121
+    2300054: detail 122
+    2300056: detail 123
+    2300058: detail 124
+    2300060: detail 125
+    2300062: detail 126
+    2300064: detail 127
+    2300066: detail 128
+    2300068: detail 129
+    2300070: detail 13
+    2300072: detail 130
+    2300074: detail 131
+    2300076: detail 132
+    2300078: detail 133
+    2300080: detail 134
+    2300082: detail 135
+    2300084: detail 136
+    2300086: detail 137
+    2300088: detail 138
+    2300090: detail 139
+    2300092: detail 14
+    2300094: detail 15
+    2300096: detail 16
+    2300098: detail 17
+    2300100: detail 18
+    2300102: detail 19
+    2300104: detail 2
+    2300106: detail 20
+    2300108: detail 21
+    2300110: detail 22
+    2300112: detail 23
+    2300114: detail 24
+    2300116: detail 25
+    2300118: detail 26
+    2300120: detail 27
+    2300122: detail 28
+    2300124: detail 29
+    2300126: detail 3
+    2300128: detail 30
+    2300130: detail 31
+    2300132: detail 32
+    2300134: detail 33
+    2300136: detail 34
+    2300138: detail 35
+    2300140: detail 36
+    2300142: detail 37
+    2300144: detail 38
+    2300146: detail 39
+    2300148: detail 4
+    2300150: detail 40
+    2300152: detail 41
+    2300154: detail 42
+    2300156: detail 43
+    2300158: detail 44
+    2300160: detail 45
+    2300162: detail 46
+    2300164: detail 47
+    2300166: detail 48
+    2300168: detail 49
+    2300170: detail 5
+    2300172: detail 50
+    2300174: detail 51
+    2300176: detail 52
+    2300178: detail 53
+    2300180: detail 54
+    2300182: detail 55
+    2300184: detail 56
+    2300186: detail 57
+    2300188: detail 58
+    2300190: detail 59
+    2300192: detail 6
+    2300194: detail 60
+    2300196: detail 61
+    2300198: detail 62
+    2300200: detail 63
+    2300202: detail 64
+    2300204: detail 65
+    2300206: detail 66
+    2300208: detail 67
+    2300210: detail 68
+    2300212: detail 69
+    2300214: detail 7
+    2300216: detail 70
+    2300218: detail 71
+    2300220: detail 72
+    2300222: detail 73
+    2300224: detail 74
+    2300226: detail 75
+    2300228: detail 76
+    2300230: detail 77
+    2300232: detail 78
+    2300234: detail 79
+    2300236: detail 8
+    2300238: detail 80
+    2300240: detail 81
+    2300242: detail 82
+    2300244: detail 83
+    2300246: detail 84
+    2300248: detail 85
+    2300250: detail 86
+    2300252: detail 87
+    2300254: detail 88
+    2300256: detail 89
+    2300258: detail 9
+    2300260: detail 90
+    2300262: detail 91
+    2300264: detail 92
+    2300266: detail 93
+    2300268: detail 94
+    2300270: detail 95
+    2300272: detail 96
+    2300274: detail 97
+    2300276: detail 98
+    2300278: detail 99
+    2300280: Group 4
+    2300282: Group 55
+    2300284: Group#1
+    2300286: knob
+    2300288: knob 1
+    2300290: knob 2
+    2300292: line
+    2300294: line 1
+    2300296: line 10
+    2300298: line 11
+    2300300: line 12
+    2300302: line 13
+    2300304: line 14
+    2300306: line 15
+    2300308: line 16
+    2300310: line 17
+    2300312: line 18
+    2300314: line 19
+    2300316: line 2
+    2300318: line 20
+    2300320: line 21
+    2300322: line 22
+    2300324: line 23
+    2300326: line 24
+    2300328: line 25
+    2300330: line 26
+    2300332: line 27
+    2300334: line 28
+    2300336: line 29
+    2300338: line 3
+    2300340: line 30
+    2300342: line 31
+    2300344: line 32
+    2300346: line 33
+    2300348: line 34
+    2300350: line 35
+    2300352: line 36
+    2300354: line 37
+    2300356: line 38
+    2300358: line 39
+    2300360: line 4
+    2300362: line 5
+    2300364: line 6
+    2300366: line 7
+    2300368: line 8
+    2300370: line 9
+    2300372: opening-1
+    2300374: opening-1 1
+    2300376: opening_2
+    2300378: opening_2 1
+    2300380: radio half
+    2300382: radio half 1
+    3300000: detail
+    3300002: detail 1
+    3300004: detail 10
+    3300006: detail 100
+    3300008: detail 101
+    3300010: detail 102
+    3300012: detail 103
+    3300014: detail 104
+    3300016: detail 105
+    3300018: detail 106
+    3300020: detail 107
+    3300022: detail 108
+    3300024: detail 109
+    3300026: detail 11
+    3300028: detail 110
+    3300030: detail 111
+    3300032: detail 112
+    3300034: detail 113
+    3300036: detail 114
+    3300038: detail 115
+    3300040: detail 116
+    3300042: detail 117
+    3300044: detail 118
+    3300046: detail 119
+    3300048: detail 12
+    3300050: detail 120
+    3300052: detail 121
+    3300054: detail 122
+    3300056: detail 123
+    3300058: detail 124
+    3300060: detail 125
+    3300062: detail 126
+    3300064: detail 127
+    3300066: detail 128
+    3300068: detail 129
+    3300070: detail 13
+    3300072: detail 130
+    3300074: detail 131
+    3300076: detail 132
+    3300078: detail 133
+    3300080: detail 134
+    3300082: detail 135
+    3300084: detail 136
+    3300086: detail 137
+    3300088: detail 138
+    3300090: detail 139
+    3300092: detail 14
+    3300094: detail 15
+    3300096: detail 16
+    3300098: detail 17
+    3300100: detail 18
+    3300102: detail 19
+    3300104: detail 2
+    3300106: detail 20
+    3300108: detail 21
+    3300110: detail 22
+    3300112: detail 23
+    3300114: detail 24
+    3300116: detail 25
+    3300118: detail 26
+    3300120: detail 27
+    3300122: detail 28
+    3300124: detail 29
+    3300126: detail 3
+    3300128: detail 30
+    3300130: detail 31
+    3300132: detail 32
+    3300134: detail 33
+    3300136: detail 34
+    3300138: detail 35
+    3300140: detail 36
+    3300142: detail 37
+    3300144: detail 38
+    3300146: detail 39
+    3300148: detail 4
+    3300150: detail 40
+    3300152: detail 41
+    3300154: detail 42
+    3300156: detail 43
+    3300158: detail 44
+    3300160: detail 45
+    3300162: detail 46
+    3300164: detail 47
+    3300166: detail 48
+    3300168: detail 49
+    3300170: detail 5
+    3300172: detail 50
+    3300174: detail 51
+    3300176: detail 52
+    3300178: detail 53
+    3300180: detail 54
+    3300182: detail 55
+    3300184: detail 56
+    3300186: detail 57
+    3300188: detail 58
+    3300190: detail 59
+    3300192: detail 6
+    3300194: detail 60
+    3300196: detail 61
+    3300198: detail 62
+    3300200: detail 63
+    3300202: detail 64
+    3300204: detail 65
+    3300206: detail 66
+    3300208: detail 67
+    3300210: detail 68
+    3300212: detail 69
+    3300214: detail 7
+    3300216: detail 70
+    3300218: detail 71
+    3300220: detail 72
+    3300222: detail 73
+    3300224: detail 74
+    3300226: detail 75
+    3300228: detail 76
+    3300230: detail 77
+    3300232: detail 78
+    3300234: detail 79
+    3300236: detail 8
+    3300238: detail 80
+    3300240: detail 81
+    3300242: detail 82
+    3300244: detail 83
+    3300246: detail 84
+    3300248: detail 85
+    3300250: detail 86
+    3300252: detail 87
+    3300254: detail 88
+    3300256: detail 89
+    3300258: detail 9
+    3300260: detail 90
+    3300262: detail 91
+    3300264: detail 92
+    3300266: detail 93
+    3300268: detail 94
+    3300270: detail 95
+    3300272: detail 96
+    3300274: detail 97
+    3300276: detail 98
+    3300278: detail 99
+    3300280: Group 4
+    3300282: Group 55
+    3300284: Group#1
+    3300286: knob
+    3300288: knob 1
+    3300290: knob 2
+    3300292: line
+    3300294: line 1
+    3300296: line 10
+    3300298: line 11
+    3300300: line 12
+    3300302: line 13
+    3300304: line 14
+    3300306: line 15
+    3300308: line 16
+    3300310: line 17
+    3300312: line 18
+    3300314: line 19
+    3300316: line 2
+    3300318: line 20
+    3300320: line 21
+    3300322: line 22
+    3300324: line 23
+    3300326: line 24
+    3300328: line 25
+    3300330: line 26
+    3300332: line 27
+    3300334: line 28
+    3300336: line 29
+    3300338: line 3
+    3300340: line 30
+    3300342: line 31
+    3300344: line 32
+    3300346: line 33
+    3300348: line 34
+    3300350: line 35
+    3300352: line 36
+    3300354: line 37
+    3300356: line 38
+    3300358: line 39
+    3300360: line 4
+    3300362: line 5
+    3300364: line 6
+    3300366: line 7
+    3300368: line 8
+    3300370: line 9
+    3300372: opening-1
+    3300374: opening-1 1
+    3300376: opening_2
+    3300378: opening_2 1
+    3300380: radio half
+    3300382: radio half 1
+    4300000: Mesh radio half
+    4300002: Mesh Group 4
+    4300004: Mesh opening-1
+    4300006: Mesh opening_2
+    4300008: Mesh knob
+    4300010: Mesh line
+    4300012: Mesh line
+    4300014: Mesh knob
+    4300016: Mesh Group#1
+    4300018: Mesh detail
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

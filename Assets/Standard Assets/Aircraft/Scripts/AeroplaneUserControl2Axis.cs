@@ -14,6 +14,11 @@ namespace UnityStandardAssets.Vehicles.Aeroplane
         // reference to the aeroplane that we're controlling
         private AeroplaneController m_Aeroplane;
 
+<<<<<<< Updated upstream
+=======
+		public static bool userOutside;
+
+>>>>>>> Stashed changes
 
         private void Awake()
         {
@@ -34,8 +39,15 @@ namespace UnityStandardAssets.Vehicles.Aeroplane
 #if MOBILE_INPUT
             AdjustInputForMobileControls(ref roll, ref pitch, ref throttle);
 #endif
+<<<<<<< Updated upstream
             // Pass the input to the aeroplane
             m_Aeroplane.Move(roll, pitch, 0, throttle, airBrakes);
+=======
+			if (userOutside) {
+				// Pass the input to the aeroplane
+				m_Aeroplane.Move (roll, pitch, 0, throttle, airBrakes);
+			}
+>>>>>>> Stashed changes
         }
 
 

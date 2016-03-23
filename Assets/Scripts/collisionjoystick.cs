@@ -5,7 +5,11 @@ public class collisionjoystick : MonoBehaviour {
 
 	void OnCollisonEnter(Collision col){
 		if (col.gameObject.name == "FPSController"){
+<<<<<<< Updated upstream
 			OVRInput.SetControllerVibration (1, 1);
+=======
+			//OVRInput.SetControllerVibration (1, 1);
+>>>>>>> Stashed changes
 		}
 	}
 

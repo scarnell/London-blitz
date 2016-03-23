@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 732b42c5e57664f1593dacf005065aee
+timeCreated: 1455997347
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: aaaa6efb1ead10e28a4ee7f2233e3f01
+  longitude: -0.124618360675
+  latitude: 51.500440106569
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 86.2169, y: 41.26415, z: 51.928585}
+      lookAt: {x: 20.944113, y: 37.7142, z: 4.7635264}
+      up: {x: -0.035695832, y: 0.9990298, z: -0.025793228}
+      fov: 65.466225
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -0.5772326, y: 1.7267764, z: -2.3031418}
+        lookAt: {x: 3.081212, y: 1.5981408, z: 0.8855466}
+        up: {x: 0.019974602, y: 0.9996489, z: 0.017409798}
+        fov: 65.466225
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: tower2-1
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 11
+    100004: Group 3
+    100006: Group 5
+    100008: Group 7
+    100010: Group 9
+    400000: //RootNode
+    400002: Group 11
+    400004: Group 3
+    400006: Group 5
+    400008: Group 7
+    400010: Group 9
+    2300000: Group 11
+    2300002: Group 3
+    2300004: Group 5
+    2300006: Group 7
+    2300008: Group 9
+    3300000: Group 11
+    3300002: Group 3
+    3300004: Group 5
+    3300006: Group 7
+    3300008: Group 9
+    4300000: Mesh Group 3
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+    4300006: Mesh Group 9
+    4300008: Mesh Group 11
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

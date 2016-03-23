@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 49831c4849f1443cab9898c6c99c4b24
+timeCreated: 1455993167
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2585bb26ce36521282b695fba74c021f
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.0305135, y: 1.1764977, z: -1.2761343}
+      lookAt: {x: 1.0030686, y: 0.31987762, z: 0.85392356}
+      up: {x: -0.0048067067, y: 0.92779535, z: 0.37305853}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#2
+    100002: Component#2 1
+    100004: Component#2 10
+    100006: Component#2 11
+    100008: Component#2 12
+    100010: Component#2 13
+    100012: Component#2 14
+    100014: Component#2 15
+    100016: Component#2 2
+    100018: Component#2 3
+    100020: Component#2 4
+    100022: Component#2 5
+    100024: Component#2 6
+    100026: Component#2 7
+    100028: Component#2 8
+    100030: Component#2 9
+    100032: Group 21
+    100034: Group 37
+    100036: Group 51
+    100038: Group 7
+    100040: hair_Dining_Wood_Traditional
+    100042: hair_Dining_Wood_Traditional 1
+    100044: hair_Dining_Wood_Traditional 2
+    100046: hair_Dining_Wood_Traditional 3
+    100048: Half
+    100050: Half 1
+    100052: Leg
+    100054: Leg 1
+    100056: Leg 2
+    100058: Leg 3
+    100060: //RootNode
+    400000: Component#2
+    400002: Component#2 1
+    400004: Component#2 10
+    400006: Component#2 11
+    400008: Component#2 12
+    400010: Component#2 13
+    400012: Component#2 14
+    400014: Component#2 15
+    400016: Component#2 2
+    400018: Component#2 3
+    400020: Component#2 4
+    400022: Component#2 5
+    400024: Component#2 6
+    400026: Component#2 7
+    400028: Component#2 8
+    400030: Component#2 9
+    400032: Group 21
+    400034: Group 37
+    400036: Group 51
+    400038: Group 7
+    400040: hair_Dining_Wood_Traditional
+    400042: hair_Dining_Wood_Traditional 1
+    400044: hair_Dining_Wood_Traditional 2
+    400046: hair_Dining_Wood_Traditional 3
+    400048: Half
+    400050: Half 1
+    400052: Leg
+    400054: Leg 1
+    400056: Leg 2
+    400058: Leg 3
+    400060: //RootNode
+    2300000: Component#2
+    2300002: Component#2 1
+    2300004: Component#2 10
+    2300006: Component#2 11
+    2300008: Component#2 12
+    2300010: Component#2 13
+    2300012: Component#2 14
+    2300014: Component#2 15
+    2300016: Component#2 2
+    2300018: Component#2 3
+    2300020: Component#2 4
+    2300022: Component#2 5
+    2300024: Component#2 6
+    2300026: Component#2 7
+    2300028: Component#2 8
+    2300030: Component#2 9
+    2300032: Group 21
+    2300034: Group 37
+    2300036: Group 51
+    2300038: Group 7
+    2300040: hair_Dining_Wood_Traditional
+    2300042: hair_Dining_Wood_Traditional 1
+    2300044: hair_Dining_Wood_Traditional 2
+    2300046: hair_Dining_Wood_Traditional 3
+    2300048: Half
+    2300050: Half 1
+    2300052: Leg
+    2300054: Leg 1
+    2300056: Leg 2
+    2300058: Leg 3
+    3300000: Component#2
+    3300002: Component#2 1
+    3300004: Component#2 10
+    3300006: Component#2 11
+    3300008: Component#2 12
+    3300010: Component#2 13
+    3300012: Component#2 14
+    3300014: Component#2 15
+    3300016: Component#2 2
+    3300018: Component#2 3
+    3300020: Component#2 4
+    3300022: Component#2 5
+    3300024: Component#2 6
+    3300026: Component#2 7
+    3300028: Component#2 8
+    3300030: Component#2 9
+    3300032: Group 21
+    3300034: Group 37
+    3300036: Group 51
+    3300038: Group 7
+    3300040: hair_Dining_Wood_Traditional
+    3300042: hair_Dining_Wood_Traditional 1
+    3300044: hair_Dining_Wood_Traditional 2
+    3300046: hair_Dining_Wood_Traditional 3
+    3300048: Half
+    3300050: Half 1
+    3300052: Leg
+    3300054: Leg 1
+    3300056: Leg 2
+    3300058: Leg 3
+    4300000: Mesh Half
+    4300002: Mesh Leg
+    4300004: Mesh hair_Dining_Wood_Traditional
+    4300006: Mesh Group 7
+    4300008: Mesh Component#2
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
